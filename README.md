@@ -67,3 +67,6 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-ffffff?logo=stack-overflow&logoColor=blue"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-ffffff.svg?logo=visual-studio-code&logoColor=blue"></a>
   </p>
+
+## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a> Github Stats and Activity
+  <img alt="Shivam Prakash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/username=Shivam171&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
