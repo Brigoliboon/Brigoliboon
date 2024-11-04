@@ -57,7 +57,7 @@
       <!-- <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a> -->
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-ffffff.svg?logo=discord&logoColor=blue"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-ffffff.svg?logo=git&logoColor=blue"></a>
-      <!-- <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a> -->
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 <!--       <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-ffffff.svg?logo=adobe%20photoshop&logoColor=blue"></a> -->
       <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
 <!--       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-ffffff?logo=obs-studio&logoColor=blue"></a> -->
