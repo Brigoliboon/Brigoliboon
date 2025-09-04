@@ -6,67 +6,144 @@
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![](https://komarev.com/ghpvc/?username=Brigoliboon&label=Profile%20views&color=0e75b6&style=flat) 
 
-## <a href="#"><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" height="30"></a> Languages and Tools
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+## <a href="#"><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" height="30"></a> Languages and Frameworks  
+  <h3>Programming and Markup Languages</h3>
   <p>
-      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-      <!-- <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> -->
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-ffffff.svg?logo=css3&logoColor=blue"></a>
-      <!-- <img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"> -->
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-ffffff.svg?logo=html5&logoColor=blue"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff.svg?logo=javascript&logoColor=blue"></a>
-      <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-ffffff.svg?logo=typescript&logoColor=blue"></a> -->
-      <!-- <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"> -->
-      <!-- <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-ffffff.svg?logo=markdown&logoColor=blue"></a> -->
-      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-ffffff.svg?logo=database&logoColor=blue"></a>
-      <!-- <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> -->
-      <!-- <img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"> -->
-      <!-- <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"> -->
-      <!-- <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"> -->
-  </p>
-  
-  <h3>🧰 Frameworks and Libraries</h3>
-  
-  <p>
+    <img alt="Python" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Java" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Kotlin" style='height:40px; width:40px' src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="PHP" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="JavaScript" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="HTML" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="CSS" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/CSS3.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="TypeScript" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
     
+      
   </p>
-
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-
+  <h3>Frameworks</h3>
   <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-ffffff.svg?logo=github&logoColor=blue"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-ffffff.svg?logo=mysql&logoColor=blue"></a>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffffff.svg?logo=firebase&logoColor=blue""></a>
-      <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-ffffff.svg?logo=Netlify&logoColor=blue"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-ffffff.svg?logo=vercel&logoColor=blue"></a>
+    <img alt="React" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/15484/15484268.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Nextjs" style='height:40px; width:40px' src="https://logo.svgcdn.com/d/nextjs-original.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Vuejs" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/15484/15484278.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Laravel" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Laravel.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="FastAPI" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/FastAPI.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Flask" style='height:40px; width:40px' src="https://cdn.worldvectorlogo.com/logos/flask.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Django" style='height:40px; width:50px' src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png">
   </p>
 
-  <h3>💻 Software and Tools</h3>
-
+  <h3>Styling</h3>
   <p>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-<!--       <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-ffffff.svg?logo=linux-mint&logoColor=blue"></a> -->
-      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-ffffff.svg?logo=windows&logoColor=blue"></a>
-<!--       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-ffffff?logo=audacity&logoColor=blue"></a> -->
-      <!-- <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a> -->
-<!--       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-ffffff?logo=brave&logoColor=blue"></a> -->
-      <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google%20Chrome-ffffff?logo=GoogleChrome&logoColor=blue"></a>
-      <!-- <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a> -->
-<!--       <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-ffffff?logo=dark-reader&logoColor=blue"></a> -->
-      <!-- <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a> -->
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-ffffff.svg?logo=discord&logoColor=blue"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-ffffff.svg?logo=git&logoColor=blue"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-<!--       <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-ffffff.svg?logo=adobe%20photoshop&logoColor=blue"></a> -->
-      <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
-<!--       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-ffffff?logo=obs-studio&logoColor=blue"></a> -->
-<!--       <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-ffffff?logo=photopea&logoColor=blue"></a> -->
-<!--       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-ffffff?logo=postman&logoColor=blue"></a> -->
-      <!-- <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-ffffff?logo=stack-overflow&logoColor=blue"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-ffffff.svg?logo=visual-studio-code&logoColor=blue"></a>
+    <img alt="tailwind css" style='height:40px; width:50px' src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg">
+  </p>
+  
+  <h3>🗄️ Databases</h3>
+  
+  <p>
+    <img alt="MySQL" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/MySQL.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="SQLite" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="MongoDB" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/MongoDB.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="PostgreSQL" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Firebase Database" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Firebase.svg">
+    &nbsp;&nbsp;&nbsp;
   </p>
 
+  <h2>Development Tools</h2>
+  
+  <h3>Operating System</h3>
+  <p>
+    <img alt="Windows" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Windows-11.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Linux" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png">
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h3>IDEs & Editors</h3>
+  <p>
+    <img alt="Android Studio" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="VSCode" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="IntelliJ" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Cursor" style='height:40px; width:40px' src="https://avatars.githubusercontent.com/u/126759922?v=4">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Github" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png">
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h3>API & Testing</h3>
+  <p>
+    <img alt="Postman" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Postman.svg">
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h3>Database Tools</h3>
+  <p>
+    <img alt="MySQL Workbench" style='height:40px; width:40px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrvSyvj8BDUx_a0If3L3Uwddocat7O9fjLA&s">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="navicat" style='height:40px; width:40px' src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxh29Yv.2Ja4TSAEgerhoTfMgbt5tHz4C1ymm_O7w50cOpajGRr5nAMi3.OdbSH02ZAQ.uAnle8wNsjhPw1MJ5MY-&format=source">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="pgAdmin 4" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg">
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h3>Design & Diagramming</h3>
+  <p>
+    <img alt="Figma" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Figma.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Adobe Illustrator" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Adobe-Illustrator.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="draw.io" style='height:40px; width:40px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png">
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h3>Workflow & Collaboration</h3>
+  <p>
+    <img alt="Github" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png">
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h3>DevOps / Infrastructure</h3>
+  <p>
+    <img alt="Git" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Git.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="github actions" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="docker" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Docker.svg">
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h3>Deployment / Hosting</h3>
+  <p>
+    <img alt="Vercel" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Netlify" style='height:40px; width:40px' src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Supabase" style='height:40px; width:40px' src="https://cdn.prod.website-files.com/66842e04d18971242a294872/669e87d174d190a8ba60b861_supabase-TAiY.png">
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h3>Security / DevSecOps</h3>
+  <p>
+    <img alt="gitguardian" style='height:40px; width:40px' src="https://docs.gitguardian.com/img/favicon.ico">
+    &nbsp;&nbsp;&nbsp;
+  </p>
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a> Github Stats and Activity
 <img alt="Boon Brigoli's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Brigoliboon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
