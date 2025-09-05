@@ -5,6 +5,9 @@
 
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![](https://komarev.com/ghpvc/?username=Brigoliboon&label=Profile%20views&color=0e75b6&style=flat) 
+<p>
+  Hi, I’m Boon Jefferson Brigoli — a <b>Full-Stack Developer</b> passionate about building scalable and user-friendly applications. With experience in Python, Java, PHP, and JavaScript, I create end-to-end solutions across web and mobile platforms. I am passionate on building scalable solutions and continuously learning new technologies.
+</p>
 
 ## <a href="#"><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" height="30"></a> Languages and Frameworks  
   <h3>Programming and Markup Languages</h3>
