@@ -1,4 +1,4 @@
-<img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/a3340ba0-1322-480f-878e-12b10fe11381" />![shivam171-cover](https://github.com/Shivam171/Shivam171/assets/66107248/e660224b-261e-42ab-af67-fe1384c642b5)
+![boonjf-cover](https://github.com/Shivam171/Shivam171/assets/66107248/e660224b-261e-42ab-af67-fe1384c642b5)
 
 ## 👋🏼 Hi there, Welcome!
 
