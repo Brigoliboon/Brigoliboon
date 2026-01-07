@@ -1,4 +1,4 @@
-![shivam171-cover](https://github.com/Shivam171/Shivam171/assets/66107248/e660224b-261e-42ab-af67-fe1384c642b5)
+<img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/a3340ba0-1322-480f-878e-12b10fe11381" />![shivam171-cover](https://github.com/Shivam171/Shivam171/assets/66107248/e660224b-261e-42ab-af67-fe1384c642b5)
 
 ## 👋🏼 Hi there, Welcome!
 
@@ -27,7 +27,8 @@
     <img alt="CSS" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/CSS3.svg">
     &nbsp;&nbsp;&nbsp;
     <img alt="TypeScript" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
-    
+    &nbsp;&nbsp;&nbsp;
+    <img alt="TypeScript" style='height:40px; width:40px' src="https://cdn.worldvectorlogo.com/logos/dart.svg">
       
   </p>
   <h3>Frameworks</h3>
@@ -44,7 +45,9 @@
     &nbsp;&nbsp;&nbsp;
     <img alt="Flask" style='height:40px; width:40px' src="https://cdn.worldvectorlogo.com/logos/flask.svg">
     &nbsp;&nbsp;&nbsp;
-    <img alt="Django" style='height:40px; width:50px' src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png">
+    <img alt="Django" style='height:40px; width:50px' src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"/>
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Django" style='height:40px; width:50px' src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"/>
   </p>
 
   <h3>Styling</h3>
