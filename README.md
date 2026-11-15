@@ -1,25 +1,21 @@
 ![boonjf-cover](https://github.com/Shivam171/Shivam171/assets/66107248/e660224b-261e-42ab-af67-fe1384c642b5)
 
-## 👋🏼 Hi there, Welcome!
-
-
-
+## Hi, I'm Boon👋🏼
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![](https://komarev.com/ghpvc/?username=Brigoliboon&label=Profile%20views&color=0e75b6&style=flat) 
-<p>
-  Hi, I’m Boon Jefferson Brigoli — a <b>Full-Stack Developer</b> passionate about building scalable and user-friendly applications. With strong expertise in Python, Java, Dart, PHP, JavaScript, and TypeScript, I create end-to-end solutions across web and mobile platforms. I am passionate on building scalable solutions and continuously learning new technologies.
-</p>
+
+<h3>Full-Stack Developer. Engineer. Innovator.</h3>
+<p><i>Ideas into systems. Systems into impact.</i></p>
+
+I take products from first idea to production. Design, architecture, code, deployment. **One builder, end to end.**
+- 🏆 Award-winning at national and regional competitions
+- 🛰️ Recognized as a Galactic Problem Solver at the NASA International Space Apps Challenge
+- 🚀 See what I'm building in my pinned repos below, with full case studies at [boonbrigoli.site](https://boonbrigoli.site)
+- 💼 Open to freelance and full-time work
+
 
 ## <a href="#"><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" height="30"></a> Languages and Frameworks  
   <h3>Programming and Markup Languages</h3>
   <p>
-    <img alt="Python" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-    &nbsp;&nbsp;&nbsp;
-    <img alt="Java" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-    &nbsp;&nbsp;&nbsp;
-    <img alt="Kotlin" style='height:40px; width:40px' src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
-    &nbsp;&nbsp;&nbsp;
-    <img alt="PHP" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
-    &nbsp;&nbsp;&nbsp;
     <img alt="JavaScript" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
     &nbsp;&nbsp;&nbsp;
     <img alt="HTML" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
@@ -28,8 +24,12 @@
     &nbsp;&nbsp;&nbsp;
     <img alt="TypeScript" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
     &nbsp;&nbsp;&nbsp;
-    <img alt="TypeScript" style='height:40px; width:40px' src="https://cdn.worldvectorlogo.com/logos/dart.svg">
-      
+    <img alt="Python" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Java" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+    &nbsp;&nbsp;&nbsp;
+    <img alt="PHP" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
+    &nbsp;&nbsp;&nbsp;
   </p>
   <h3>Frameworks</h3>
   <p>
@@ -37,15 +37,9 @@
     &nbsp;&nbsp;&nbsp;
     <img alt="Nextjs" style='height:40px; width:40px' src="https://logo.svgcdn.com/d/nextjs-original.png">
     &nbsp;&nbsp;&nbsp;
-    <img alt="Vuejs" style='height:40px; width:40px' src="https://cdn-icons-png.flaticon.com/512/15484/15484278.png">
-    &nbsp;&nbsp;&nbsp;
     <img alt="Laravel" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/Laravel.svg">
     &nbsp;&nbsp;&nbsp;
     <img alt="FastAPI" style='height:40px; width:40px' src="https://icon.icepanel.io/Technology/svg/FastAPI.svg">
-    &nbsp;&nbsp;&nbsp;
-    <img alt="Flask" style='height:40px; width:40px' src="https://cdn.worldvectorlogo.com/logos/flask.svg">
-    &nbsp;&nbsp;&nbsp;
-    <img alt="Django" style='height:40px; width:50px' src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"/>
     &nbsp;&nbsp;&nbsp;
     <img alt="Django" style='height:40px; width:50px' src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"/>
   </p>
