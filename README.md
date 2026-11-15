@@ -7,7 +7,7 @@
 <p><i>Ideas into systems. Systems into impact.</i></p>
 
 I take products from first idea to production. Design, architecture, code, deployment. **One builder, end to end.**
-- 🏆 Award-winning at national and regional competitions
+- 🏆 Award-winning at national and international competitions
 - 🛰️ Recognized as a Galactic Problem Solver at the NASA International Space Apps Challenge
 - 🚀 See what I'm building in my pinned repos below, with full case studies at [boonbrigoli.site](https://boonbrigoli.site)
 - 💼 Open to freelance and full-time work
